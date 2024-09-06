@@ -111,12 +111,22 @@ print(y_prednew)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/2f4e5d94-81a7-4275-a24a-3b2af537a89d)
+```
+Accuracy
+```
+![image](https://github.com/user-attachments/assets/645be245-5ea1-4d62-b623-669d594f46fe)
+```
+y_prednew
+```
+![Screenshot 2024-09-06 114345](https://github.com/user-attachments/assets/7c557095-2e55-47f6-9dec-08eec65b6245)
 
-![image](https://github.com/user-attachments/assets/ba3b5f3c-73fc-4f5d-a1bc-9c5c9d06557b)
-
+```
+y_prednew
+```
 ![image](https://github.com/user-attachments/assets/7dc03237-b50e-4d84-98d8-c6ef44641179)
+
+
+
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
-
